@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#hashlib用来替换md5和sha模块，并使他们的API一致
 __author__ = 'qing'
 import hashlib
 class Start(object):
